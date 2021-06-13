@@ -17,6 +17,7 @@ Vector Flow Mapping technique can be used to detect the vortices formed in the l
 * Color of the vectors and the streamlines can be changed
 * View the streamlines/vectors frame by frame
 * View the streamlines/vectors in a video with the pause/resume option
+* The video speed can be increased or decreased by clicking "Slow" or "Fast" button
 (These features help in aiding the blood flow visualization)
 
 
