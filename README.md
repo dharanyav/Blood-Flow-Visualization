@@ -8,7 +8,8 @@ Vector Flow Mapping technique can be used to detect the vortices formed in the l
 ## Input ##
 * Video file (Color Dopple Echocardiography of the heart)
 * Draw a box over the left ventricle and mark the location of the beam
-* Draw a box over the colorbar and give compute
+* Draw a box over the colorbar and set the velocity value given in the color bar
+* Click compute
 ## Output ##
 * Video/Frame with the Streamlines/Vectors over the frame
 ## Features ##
